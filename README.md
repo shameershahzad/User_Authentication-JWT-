@@ -1,0 +1,1 @@
+This project implements a Login/Signup system using JWT (JSON Web Token) authentication to ensure secure access. After a successful login, a token is generated and stored in localStorage. The token expires after one hour, requiring the user to log in again for continued access.
